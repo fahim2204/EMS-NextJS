@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>{MainTitle} - Home</title>
+        <title>EMS - Everspecial Medical Support</title>
       </Head>
       <main>
         <Navbar />
@@ -20,8 +20,6 @@ export default function Home() {
           <div className="grid grid-cols-14 gap-8 mb-5">
             <div className="col-span-10">
               <div className="grid grid-cols-2 gap-8">
-                <BlogList />
-                <BlogList />
                 <BlogList />
               </div>
             </div>

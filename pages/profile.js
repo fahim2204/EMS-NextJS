@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>OulYas - Blog</title>
+        <title>EMS - Profile</title>
       </Head>
       <main>
         <Navbar />
